@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>matt.wilkofsky@snc</sys_created_by>
         <sys_created_on>2019-09-22 15:17:24</sys_created_on>
-        <sys_id>8a3b62a1db44801068849474db9619be</sys_id>
+        <sys_id>536baa21dbcc401081b5f4eabf96194d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_mwmid5_alt_cmbd</sys_name>
         <sys_package display_value="mwmid5" source="x_snc_mwmid5">52a9a621db44801068849474db961923</sys_package>
         <sys_policy/>
         <sys_scope display_value="mwmid5">52a9a621db44801068849474db961923</sys_scope>
-        <sys_update_name>ua_table_licensing_config_8a3b62a1db44801068849474db9619be</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_536baa21dbcc401081b5f4eabf96194d</sys_update_name>
         <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
         <sys_updated_on>2019-09-22 15:17:24</sys_updated_on>
     </ua_table_licensing_config>

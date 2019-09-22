@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_mwmid5.Sc1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Sc1</name>
+        <script><![CDATA[var Sc1 = Class.create();
+Sc1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'Sc1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-09-22 15:21:08</sys_created_on>
+        <sys_id>6f0c66a9db8080105dc970f5bf9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sc1</sys_name>
+        <sys_package display_value="mwmid5" source="x_snc_mwmid5">52a9a621db44801068849474db961923</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="mwmid5">52a9a621db44801068849474db961923</sys_scope>
+        <sys_update_name>sys_script_include_6f0c66a9db8080105dc970f5bf9619d8</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-09-22 15:21:08</sys_updated_on>
+    </sys_script_include>
+</record_update>

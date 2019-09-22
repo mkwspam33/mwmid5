@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_snc_mwmid5.ext_user" name="x_snc_mwmid5.ext_user">46fa2e61db44801068849474db96196c</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>matt.wilkofsky@snc</sys_created_by>
         <sys_created_on>2019-09-22 15:16:19</sys_created_on>

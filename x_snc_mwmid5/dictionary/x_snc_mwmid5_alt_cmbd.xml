@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="cmdb_ci" label="Alt CMBD" max_length="40" name="x_snc_mwmid5_alt_cmbd" type="collection">
         <element label="AAA col" max_length="40" name="aaa_col" type="string"/>
+        <element attributes="synchronizePartitions=true" choice="3" default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
     </element>
 </database>

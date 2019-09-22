@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_snc_mwmid5_base_table" label="Ext" max_length="40" name="x_snc_mwmid5_ext" type="collection">
-        <element label="Col 2" max_length="40" name="col_2" type="string"/>
-    </element>
-</database>
