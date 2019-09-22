@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Alt CMBD" max_length="40" name="x_snc_mwmid5_alt_cmbd" type="collection">
+        <element label="AAA col" max_length="40" name="aaa_col" type="string"/>
+    </element>
+</database>

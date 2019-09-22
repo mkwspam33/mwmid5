@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Alt CMBD" language="en" table="x_snc_mwmid5_alt_cmbd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Alt CMBD</label>
+            <language>en</language>
+            <name>x_snc_mwmid5_alt_cmbd</name>
+            <plural>Alt CMBDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2019-09-22 15:17:23</sys_created_on>
+            <sys_id>b93b62a1db44801068849474db96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Alt CMBD</sys_name>
+            <sys_package display_value="mwmid5" source="x_snc_mwmid5">52a9a621db44801068849474db961923</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mwmid5">52a9a621db44801068849474db961923</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_mwmid5_alt_cmbd__en</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2019-09-22 15:17:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
